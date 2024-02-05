@@ -1,0 +1,72 @@
+Why do you like to join as a Software developer?
+ans:
+
+I'm passionate about building innovative solutions that make a positive impact on people's lives. 
+Being a software developer allows me to channel my creativity and problem-solving skills into crafting 
+intuitive and user-friendly applications. I find joy in collaborating with teams to turn ideas into 
+tangible software that enhances experiences and drives progress.
+
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+
+GitHub:
+ GitHub feels like a bustling town square for developers, where we gather to collaborate and share our work.
+ It's like a giant bulletin board where we post our code, exchange ideas, and build together, creating a sense of
+ camaraderie and progress as we contribute to projects worldwide.
+
+VS Code:
+  Visual Studio Code is like my trusty toolbox, always at hand to help me craft beautiful code. It's intuitive and adaptable,
+  like a favorite workspace where everything is just where you need it. Whether I'm coding in JavaScript, Python, or any other
+  language, it's there to make the process smoother and more enjoyable.
+
+Postman:
+  Postman is like having a helpful teammate by my side, simplifying the complex world of API development. It's like a Swiss army knife
+  for APIs, allowing me to design, test, and document them with ease. With Postman, I feel confident in my ability to create robust APIs
+  that power modern applications.
+
+
+List top 3 organisations you like to join in your career & why you like these organisations.
+
+
+TCS (Tata Consultancy Services):
+ TCS feels like a nurturing environment where I can grow and learn alongside a diverse community of talented
+ individuals. Their emphasis on innovation and continuous learning resonates with my own values, and the opportunity to work on impactful
+ projects with global reach excites me. Plus, the strong sense of teamwork and support within TCS fosters a welcoming atmosphere where 
+ I feel valued and motivated.
+
+Google:
+  Google is like a dream destination for any tech enthusiast, offering endless opportunities to push boundaries and shape the future of technology.
+  The company's commitment to innovation and its culture of curiosity inspire me to think big and explore new ideas fearlessly. Moreover, the
+  emphasis on work-life balance benefits create a supportive environment.
+
+Zennod Technologies: 
+
+Zennod Technologies stands out to me as a dynamic and forward-thinking organization that prioritizes creativity and innovation in everything they 
+do.Their focus on cutting-edge technologies and the freedom to explore unconventional solutions appeal to my entrepreneurial spirit. 
+Additionally, the tight-knit community and collaborative culture at Zennod create an environment where every team member feels empowered to
+contribute and make a meaningful impact.
+
+
+How you position yourself in this industry after 2 years.
+
+In two years, I envision myself stepping into the role of a team lead, guiding and inspiring my colleagues to reach their fullest potential.
+I see myself as a supportive mentor, fostering a collaborative environment where everyone's ideas are valued and encouraged.
+
+
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+
+Clinic Management System:
+
+This project is an application for a clinic to make their all process as online like booking appointment, giving prescription etc.
+SOFTWARE SPECIFICATION: FRONT-END: React, BACK-END: NodeJS
+
+Smart RTO:
+
+RTO Information System is an online information source developed for Road Transport Authority to facilitate the users in applying
+for various licences and registrations .FRONT-END: Flutter BACK-END: Python 
+
+Turf Management:
+
+This sports ground booking website is proposed for booking the turf in an easy and efficient way. The main Objective of Online Turf
+Booking is to manage the activity of Turf.FRONT-END: Python BACK-END: Microsoft SQL Server.
+
